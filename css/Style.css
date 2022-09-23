@@ -1,0 +1,43 @@
+#header {
+    height: 100px;
+    width: 368px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header #logo  img{
+    height: 100%;
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 4px 4px;
+}
+table thead  {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: rgba(96, 231, 6, 0.705);
+}
+table thead a {
+    text-decoration: none;
+}
+table thead a img{
+    height: 30px;
+    width:  30px;
+    position: relative
+}
+table tbody {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(123, 247, 8, 0.671);
+}
+table tbody a {
+    text-decoration: none;
+}
+table tbody td img{
+    height: 30px;
+    width:  30px;
+    position: relative ;
+} 
+ .contato a img{
+height: 50px;
+width: 50px;
+position: fixed;
+float: right;
+}
